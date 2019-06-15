@@ -5,7 +5,7 @@
         }
     },
     "name": "baddoctor/makemyday",
-    "description": "Example project",
+    "description": "Make my day project",
     "type": "library",
     "require": {
         "php": "^7.0"
