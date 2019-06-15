@@ -10,7 +10,6 @@
     "require": {
         "php": "^7.0"
     },
-    "license": "^7.0",
     "authors": [
         {
             "name": "Vlad",
