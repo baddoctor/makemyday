@@ -6,4 +6,4 @@ use baddoctor\makemyday\Makemyday;
 
 $day = new Makemyday();
 
-echo $day->go();
+echo $day->make();
